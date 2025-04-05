@@ -31,7 +31,7 @@ function App() {
         nombre={nombre}
         edad={33}
         ocupacion="Desarrolladora Web"
-        imagen="c:\Users\maria\Downloads\Screenshot_20240824-161315-419.png"
+        imagen="img/Screenshot_20240824-161315-419.png"
       />
       <Posts/>
     </div>
